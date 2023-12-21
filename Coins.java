@@ -8,6 +8,6 @@ public class Coins {
         int y;
         y=x%25;
 	    x=x/25;
-	    System.out.print("Use "+x+" quarters and "+y+" cents.");
+	    System.out.print("Use "+x+" quarters and "+y+" cents");
 	}
 }
