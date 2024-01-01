@@ -4,7 +4,12 @@
  */
 public class GenThree {
 	public static void main(String[] args) {
-
+		 /*
+  		# Feedback: Please ensure consistent indentation for better code readability. 
+  		Consider using standard indentation, such as four spaces or tabs consistently.
+    		Consider using proper spacing and parentheses alignment. 
+   		The expression "(max - min) + min" can be clearer with consistent formatting.
+		*/
 	    int randOne;
 	    int randTwo;
 	    int randThree;
