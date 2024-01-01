@@ -5,6 +5,16 @@
  */ 
 public class Triangle {
 	public static void main(String[] args) {
+		/*
+  		# Feedback: Please ensure consistent indentation for better code readability. 
+  		Consider using standard indentation, such as four spaces or tabs consistently.
+    		Ensure proper indentation for code blocks enclosed with { }.
+   		The open and close braces should be aligned with the corresponding control structure or method.
+   		Example:
+	   	public static void main(String[] args) {
+	      		// Code inside the block
+	   	}
+		*/
 		int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);
         int c = Integer.parseInt(args[2]);
